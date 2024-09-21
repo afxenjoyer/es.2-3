@@ -37,5 +37,5 @@ int main()
         differenza = differenza * -1;
     }
 
-    printf("La differenza tra i due orari in secondi è %d", differenza);
+    printf("La differenza tra i due orari è di %d secondi", differenza);
 }
